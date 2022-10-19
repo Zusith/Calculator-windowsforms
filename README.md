@@ -5,9 +5,10 @@ Simple calculator windows forms.
 <br>
 Калькулятор используется для вычисления арифметических операций, таких как сложение, вычитание, умножение и деление. Добавлена кнопка +/- и удалена кнопка "," т.к. заказчик изменил требования и он не будет работать с дробными числами.
 <br>
-для удобства ему нужна кнопка для изменения отрицательности числа (+/-).
+Для удобства заказчику нужна кнопка для изменения отрицательности числа (+/-).
 <br>
 Инструкция по эксплуатации:
+<br>
 После запуска калькулятора, вы можете вводить числа, менять их знак.
 <br>
 После ввода первого числа выражения, нажмите кнопку нужного вам знака +,-,x,/ Если был выбран не тот знак, просто нажмите на другой.
@@ -27,5 +28,8 @@ Simple calculator windows forms.
 <br>
 Если вам нужно сбросить все вычисления нажмите кнопку С.
 <img src = "https://raw.githubusercontent.com/Zusith/Calculator-windowsforms/6f0300c4ab2fb93eba05fc4a705d3fe3fa796680/test3.png" alt = "https://raw.githubusercontent.com/Zusith/Calculator-windowsforms/6f0300c4ab2fb93eba05fc4a705d3fe3fa796680/test3.png">
+<br>
+Для изменения знака передчислом используйте кнопку +/-.
+<img src = "https://github.com/Zusith/Calculator-windowsforms/blob/master/test4.png?raw=true" alt = "https://github.com/Zusith/Calculator-windowsforms/blob/master/test4.png?raw=true">
 
 
