@@ -29,7 +29,7 @@ Simple calculator windows forms.
 Если вам нужно сбросить все вычисления нажмите кнопку С.
 <img src = "https://raw.githubusercontent.com/Zusith/Calculator-windowsforms/6f0300c4ab2fb93eba05fc4a705d3fe3fa796680/test3.png" alt = "https://raw.githubusercontent.com/Zusith/Calculator-windowsforms/6f0300c4ab2fb93eba05fc4a705d3fe3fa796680/test3.png">
 <br>
-Для изменения знака передчислом используйте кнопку +/-.
+Для изменения знака перед числом используйте кнопку +/-.
 <img src = "https://github.com/Zusith/Calculator-windowsforms/blob/master/test4.png?raw=true" alt = "https://github.com/Zusith/Calculator-windowsforms/blob/master/test4.png?raw=true">
 <br>
 <br>
