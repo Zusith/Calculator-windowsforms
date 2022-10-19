@@ -7,7 +7,7 @@ using System.Windows.Forms;
 
 namespace WindowsFormsApp4
 {
-    class Util
+    public class Util
     {
 
         double a, b; //переменные для проведения расчетов
@@ -94,13 +94,13 @@ namespace WindowsFormsApp4
             }           
         }
 
-        private double Num(TextBox textBoxAsk) //метод конвертации string в double
+        public double Num(TextBox textBoxAsk) //метод конвертации string в double
         {
             return Convert.ToDouble(textBoxAsk.Text);
         }
-        private void Askmet(TextBox textBoxAsk) => textBoxAsk.Text = Math.Round(b, 1).ToString(); //метод для вывода результата вычислений 
+        public void Askmet(TextBox textBoxAsk) => textBoxAsk.Text = Math.Round(b, 1).ToString(); //метод для вывода результата вычислений 
 
-        private void Calculate(TextBox textBoxAsk, Label plusminus) //метод самого вычислений
+        public void Calculate(TextBox textBoxAsk, Label plusminus) //метод самого вычислений
         {
             double num = Num(textBoxAsk);
             if (!znak)
