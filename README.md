@@ -12,11 +12,11 @@ Simple calculator windows forms.
 <br>
 После ввода первого числа выражения, нажмите кнопку нужного вам знака +,-,x,/ Если был выбран не тот знак, просто нажмите на другой.
 <br>
-<img src = "https://github.com/Zusith/Calculator-windowsforms/blob/master/test0.png?raw=true" alt = "https://github.com/Zusith/Calculator-windowsforms/blob/master/test0.png?raw=true">
+<img src = "https://github.com/Zusith/Calculator-windowsforms/blob/master/image.png?raw=true" alt = "https://github.com/Zusith/Calculator-windowsforms/blob/master/image.png?raw=true">
 <br>
 После выбора знака введите второе число. Затем вы можете либо нажать на кнопку = и закончить вычисления, либо нажать на кнопку занака +,-,x,/ и вычисление сразу закончится и начнется новое с выбранного вами нового знака.
 <br>
-<img src = "https://github.com/Zusith/Calculator-windowsforms/blob/master/image.png?raw=true" alt = "https://github.com/Zusith/Calculator-windowsforms/blob/master/image.png?raw=true">
+<img src = "https://github.com/Zusith/Calculator-windowsforms/blob/master/test0.png?raw=true" alt = "https://github.com/Zusith/Calculator-windowsforms/blob/master/test0.png?raw=true">
 <br>
 После нажатия кнопки = результат выведется в поле.
 <img src = "https://github.com/Zusith/Calculator-windowsforms/blob/master/test2.png?raw=true" alt = "https://github.com/Zusith/Calculator-windowsforms/blob/master/test2.png?raw=true">
