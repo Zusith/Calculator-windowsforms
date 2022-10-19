@@ -58,4 +58,4 @@ Simple calculator windows forms.
 В классе Form1 собраны все кнопки используемые в калькуляторе. 
 <br>
 Юнит тесты представлены на картинке
-<src image = "https://github.com/Zusith/Calculator-windowsforms/blob/master/Юнит%20тесты.png?raw=true" alt = "https://github.com/Zusith/Calculator-windowsforms/blob/master/Юнит%20тесты.png?raw=true">
+<img src = "https://github.com/Zusith/Calculator-windowsforms/blob/master/Юнит%20тесты.png?raw=true" alt = "https://github.com/Zusith/Calculator-windowsforms/blob/master/Юнит%20тесты.png?raw=true">
